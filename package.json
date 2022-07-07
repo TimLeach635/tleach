@@ -1,0 +1,22 @@
+{
+  "name": "tleach-about-me",
+  "version": "1.0.0",
+  "description": "An \"about me\" site for me",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLeach635/tleach.git"
+  },
+  "author": "Tim Leach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimLeach635/tleach/issues"
+  },
+  "homepage": "https://github.com/TimLeach635/tleach#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
